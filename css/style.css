@@ -442,3 +442,8 @@
     padding-right: 0;
     border-right: none;
 }
+
+.logo {
+    max-width: 190px; /* Adjust the maximum width as per your design */
+    height: auto; /* Ensures the image retains its aspect ratio */
+}
