@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://travelik.in/</loc>
+        <loc>https://travelik.in/</loc>
         <lastmod>2024-07-31</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://travelik.in/about</loc>
+        <loc>https://travelik.in/about</loc>
         <lastmod>2024-07-31</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://travelik.in/contact</loc>
+        <loc>https://travelik.in/contact</loc>
         <lastmod>2024-07-31</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://travelik.in/package</loc>
+        <loc>https://travelik.in/package</loc>
         <lastmod>2024-07-31</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://travelik.in/service</loc>
+        <loc>https://travelik.in/service</loc>
         <lastmod>2024-07-31</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
