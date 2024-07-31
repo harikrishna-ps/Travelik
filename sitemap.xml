@@ -7,25 +7,25 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://travelik.in/about.html</loc>
+        <loc>http://travelik.in/about</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://travelik.in/contact.html</loc>
+        <loc>http://travelik.in/contact</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://travelik.in/package.html</loc>
+        <loc>http://travelik.in/package</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://travelik.in/service.html</loc>
+        <loc>http://travelik.in/service</loc>
         <lastmod>2024-07-28</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
