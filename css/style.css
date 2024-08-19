@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
     /* --primary: #86B817; */
-    --primary: #689368;
+    --primary: #003580;
     --secondary: #FE8800;
     --light: #F5F5F5;
     --dark: #14141F;
@@ -41,7 +41,7 @@
 
 /*** Button ***/
 .btn {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-weight: 600;
     transition: .5s;
 }
@@ -80,7 +80,7 @@
 
 /*** Navbar ***/
 .navbar-light .navbar-nav .nav-link {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
     position: relative;
     margin-right: 25px;
     padding: 35px 0;
@@ -177,6 +177,14 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.hero-header-sub {
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bg-hero.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45vh; /* 50% of the viewport height */
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
@@ -411,7 +419,7 @@
 .footer .btn.btn-link::before {
     position: relative;
     content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    font-family: "Poppins";
     font-weight: 900;
     margin-right: 10px;
 }
@@ -454,12 +462,12 @@
     height: 60px;
     bottom: 30px; /* Move the button higher */
     right: 30px;
-    background-color: #689368;
+    background-color: #003580;
     color: #FFF;
     border-radius: 50px;
     text-align: center;
     font-size: 30px;
-    box-shadow: 2px 2px 3px #999;
+    /* box-shadow: 2px 2px 3px #999; */
     z-index: 1000;
 }
 
